@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/aaf18a5e-2aea-4d34-ad63-f9ec0f64a4a3/deploy-status)](https://app.netlify.com/sites/fervent-wilson-eaf0a1/deploys)
 # Werewolf
 ## Gather around a TV and join on your phone to play this classic hidden-role party game
 
